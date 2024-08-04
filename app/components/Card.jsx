@@ -9,7 +9,7 @@ const Card = () => {
   ];
 
   const handleClick = (description) => {
-    console.log(description);
+    console.log(description);``
   };
 
   return (
